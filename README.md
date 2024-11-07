@@ -18,6 +18,5 @@
 * Click the project you made when you were setting this up
 * Press the pencil icon
 * Done!
-
   
 #### This does not bypass Wi-Fi restrictions. If you want to do that, do [Blobwifi](https://blobby-boi.github.io/Blobwifi/).
