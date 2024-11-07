@@ -13,7 +13,7 @@
 * Close LEGO WeDo 2.0 and re-enable your WiFi
 
 ### How to use (after Setup):
-* Open LEGO WeDo 2.0
+* Open LEGO WeDo 2.0 (with WiFi turned on)
 * Click the project you made when you were setting this up
 * Press the pencil icon
 * Done!
