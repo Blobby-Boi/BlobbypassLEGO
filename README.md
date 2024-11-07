@@ -3,8 +3,7 @@
 
 ### Setup:
 * First, install [WeDo 2.0 LEGO® Education](https://chromewebstore.google.com/detail/wedo-20-lego%C2%AE-education/pflionopdgpjckjkafnlamfmonjhccdh?hl=en-US) from the Chrome Webstore.
-* Wait until it loads, then turn off you wifi (not required but will make your life easier in the future since you wont have to paste the code in every time)
-* Then, create a new project.
+* Wait until it loads, then turn off your WiFi.
 * Once you are in the project, click on the pencil in the top bar.
 * Then, click the green document button.
 * In the textbox, paste the following string:
